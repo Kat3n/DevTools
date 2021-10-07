@@ -1,0 +1,19 @@
+Инспектор- выбор конкретного элемента
+Device Mode:
+        Responsive- отзывчивый
+        Adaptive- под определенные размеры
+Throttling
+Capture screenshot
+Capture full size screenshot
+
+Elements
+Console можно смотреть ошибки, сохранение сообщений лог-файла на компьютере
+        ADBlock - блокировщик рекламы (плагин)
+Sources файлы, которые подтягиваются с других серверов
+Network просматривать трафик(HTTPS) с клиента на сервер, с сервера на клиент
+        Headers, Preview
+Perfomance отображает скорость загрузки сайта
+Application
+        Storage( Local Storage, Sission Storage, Cookies)
+Lighthouse аналог Performance
+More tools- Sensors (можно менять локацию)
